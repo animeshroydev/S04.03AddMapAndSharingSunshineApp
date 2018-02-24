@@ -5,6 +5,4 @@ Sunshine App Maps(open mountain view) and sharing (sharing weather data using im
 
 ![screenshot_2018-02-24-23-38-08](https://user-images.githubusercontent.com/35850688/36633492-98183d32-194b-11e8-9f02-9d9970b97fdd.png)
 
-
-
-
+![screenshot_2018-02-24-23-39-08](https://user-images.githubusercontent.com/35850688/36633505-e8240248-194b-11e8-8c3f-cbdf807e341a.png)
