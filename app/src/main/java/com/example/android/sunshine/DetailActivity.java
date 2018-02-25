@@ -54,5 +54,7 @@ public class DetailActivity extends AppCompatActivity {
         MenuItem menuItem = menu.findItem(R.id.action_share);
         menuItem.setIntent(createShareForecastIntent());
         return true;
+
+        //Commit for first time
     }
 }
